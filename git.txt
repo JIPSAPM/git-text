@@ -1,1 +1,2 @@
 git init - for initilising git
+git ststus - list all untracked files
